@@ -4,4 +4,3 @@ toor
 1234
 123456
 admin123
-admin1234
