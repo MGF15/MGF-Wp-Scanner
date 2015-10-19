@@ -5,7 +5,7 @@ from colorama import Fore, Back, Style , init
 colorama.init()
 
 # MGF Wordpress Scanner v 2.9.1 Fixed and Rewrite
-# Coded by dogo h@ck
+# Coded by MGF15
 #"+------------------------------------+"
 #"|          MGF Wp-Scanner            |"
 #"|                      ______________|"
