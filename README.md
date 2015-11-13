@@ -4,10 +4,12 @@ MGF-Wp-Scanner is a simple Wordpress Scanner
 
 
 
-*Python 2.7^
+
 
 Install 
 ----------
+
+* Python 2.7^
 
 * colorama
 https://pypi.python.org/pypi/colorama
