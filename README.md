@@ -1,26 +1,17 @@
-MGF-Wp-Scanner
+MGF-WP-Scanner
 ==============
-MGF-Wp-Scanner is a simple Wordpress Scanner
+MGF-WP-Scanner is a simple WordPress scanner.
 
 
+Requirements
+---------------
 
-
-
-Install 
-----------
-
-* Python 2.7^
-
-* colorama
-https://pypi.python.org/pypi/colorama
-
-* requests
-https://pypi.python.org/pypi/requests
-
+* Python 2.7 (Obviously)
+* colorama (https://pypi.python.org/pypi/colorama) # for terminal coloring
+* requests (https://pypi.python.org/pypi/requests) # for security
 
 # Help 
 
-Python MWS.py -h
+```$ python(2) MWS.py -h```
 
-==============
-Version 2.9.1
+######Version 2.9.1
